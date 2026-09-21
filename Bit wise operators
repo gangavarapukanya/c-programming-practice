@@ -1,0 +1,15 @@
+/*Aim:write a c program to print the Bitwise operators
+Date:21/09/2026
+Username:G.kanya*/
+#include<stdio.h>
+int main()
+{
+int m=2,n=3;
+printf("\n Bitwiseoperators\n");
+printf("m&n=%d\n",m&n);
+printf("m|n=%d\n",m|n);
+printf("m^n=%d\n",m^n);
+printf("m>>n=%d\n",m>>n);
+printf("m<<n=%d\n",m<<n);
+return 0;
+}
