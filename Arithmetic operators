@@ -1,0 +1,15 @@
+/*Aim: write a c program to print the Arithmetic Operators
+Date:21/09/2026
+Username:kanya G.*/
+#include<stdio.h>
+int main()
+{
+int a=2,b=3;
+printf("\n Arithemetic Operators\n");
+printf("sum=%d\n",a+b);
+printf("Difference=%d\n",a-b);
+printf("Product=%d\n",a*b);
+printf("division=%d\n",a/b);
+printf("modulus=%d\n",a%b);
+return 0;
+}
