@@ -1,0 +1,16 @@
+*Aim:write a c program to print 1 to 10 loop
+Date:24/09/2026
+Username:G.kanya*/
+#include<stdio.h>
+int main()
+{
+	int i;
+	printf("Enter the value of i");
+	scanf("%d",&i);
+	while(i<=10)
+	{
+		printf("4%d",i);
+		i++;
+	}
+	return 0;
+}
